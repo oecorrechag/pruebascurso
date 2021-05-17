@@ -1,0 +1,3 @@
+My nombre es Oscar
+Tengo 28 años
+Soy DATA SCIENTIST
