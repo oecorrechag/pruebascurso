@@ -2,3 +2,4 @@ My nombre es Oscar
 Tengo 29 años
 Soy DATA SCIENTIST
 Naci en Colombia
+Me gusta el futbol y el automovilismo
