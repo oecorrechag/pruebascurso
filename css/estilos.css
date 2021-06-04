@@ -45,8 +45,29 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     background: white;
     padding: 1em;
 }
+
+footer{
+    background:white;
+    padding:10px 0;
+    margin-top: 10px;
+    text-align:center;
+    color:black
+}
+
+.footer .love{
+    color:red
+}
+
+.footer a{
+    text-decoration:none;
+    margin:0;
+    color:black
+}
+
+footer a:active,.footer a:hover{color:#4b5664}
