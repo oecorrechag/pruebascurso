@@ -7,4 +7,5 @@ Mi comida favorita es la hamburguesa
 y duerme de 10 a 6
 Agregamos nuevo usuario
 master 1
+master 2
 y me gusta el chocolate
